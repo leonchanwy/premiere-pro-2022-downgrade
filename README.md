@@ -2,6 +2,10 @@
 
 This Apple Workflow automates the process of downgrading Premiere Pro project files (.prproj) from any version to be compatible with Premiere Pro 2022. This ensures that projects created with newer versions can be opened in Premiere Pro 2022, providing better version compatibility.
 
+If you find this helpful, feel free to buy me a coffee!
+如果覺得有用的話歡迎請我喝個咖啡！
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/leonchanwy)
+
 ## Installation
 
 1. Download the Automator Workflow file from this repository.
